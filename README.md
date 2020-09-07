@@ -1,4 +1,4 @@
-# Genetic algorithms. (Wroclaw, 2017)
+# Genetic Algorithms. (Wroclaw, 2017)
 
 ### Artificial Intelligence Lab, by Prof. [Maciej Piasecki](https://www.linkedin.com/in/maciej-piasecki-020b657/)
 
