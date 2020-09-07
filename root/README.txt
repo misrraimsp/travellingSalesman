@@ -1,3 +1,7 @@
-It is needed to run the algorithm 3 libraries: "gs-core", "gs-algo" and "gs-ui"
+Dependencies:
 
-http://graphstream-project.org/download/
+"gs-core"
+"gs-algo"
+"gs-ui"
+
+Can be found at http://graphstream-project.org/download/
