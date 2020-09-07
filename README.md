@@ -1,4 +1,6 @@
-# Artificial Intelligence Lab: Genetic algorithms. (2017)
+# Genetic algorithms. (Wroclaw, 2017)
+
+### Artificial Intelligence Lab, by Prof. [Maciej Piasecki](https://www.linkedin.com/in/maciej-piasecki-020b657/)
 
 Finding the shortest path between two given nodes in a graph with weights assigned to arcs. The graph is defined in a file as a parameter to the task.
 
