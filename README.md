@@ -8,7 +8,14 @@ It's assumed that there is at most one arc between any two nodes. The graph is c
 
 The implemented Java program use [GraphStream](https://graphstream-project.org/) for UI presentation.
 
-For more info see:
+### Used Technologies:
+
++ Java SE
++ Eclipse
++ GraphStream
++ Git
+
+### For more info see:
 
 + [**Task Definition.pdf**](https://github.com/misrraimsp/travellingSalesman/blob/master/Task%20Definition.pdf)
 + [**Final Report.pdf**](https://github.com/misrraimsp/travellingSalesman/blob/master/Final%20Report.pdf)
